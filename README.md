@@ -13,7 +13,7 @@ Olá! 👋 Meu nome é Ana e sou uma apaixonada por tecnologia, programação e 
 ## Minhas Paixões
 
 - 🚀 Adoro resolver problemas complexos e criar soluções inovadoras.
-- 🎮 Nas horas vagas, gosto de jogar videogames e explorar novos jogos indie.
+- 💻 Nas horas vagas amo ver filmes e séries.
 
 ## Onde Você Pode Me Encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/ana-clara-dos-santos-a06090251/)
