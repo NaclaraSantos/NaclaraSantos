@@ -6,14 +6,14 @@ Olá! 👋 Meu nome é Ana e sou uma apaixonada por tecnologia, programação e 
 ## O Que Faço
 
 - 💻 Sou uma estudante de programação super entusiasmada.
-- 💻 Estudo a 2 anos programação e atualmente estou cursando Análise e Desenvolvimento De Sistemas .
+- 🎓 Estudo a 2 anos programação e atualmente estou cursando Análise e Desenvolvimento De Sistemas .
 - 🌐 Desenvolvo projetos web, tenho conhecimento em desenvolvimento back-end e front-end.
 - 📚 Estou constantemente aprendendo e me atualizando para acompanhar as últimas tendências tecnológicas.
 
 ## Minhas Paixões
 
 - 🚀 Adoro resolver problemas complexos e criar soluções inovadoras.
-- 💻 Nas horas vagas amo ver filmes e séries.
+- 🌈 Nas horas vagas amo ver filmes e séries.
 
 ## Onde Você Pode Me Encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/ana-clara-dos-santos-a06090251/)
