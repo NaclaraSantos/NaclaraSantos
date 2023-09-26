@@ -1,7 +1,7 @@
 # Sobre Mim
 
 
-Olá! 👋 Meu nome é Ana e sou uma apaixonada por tecnologia, programação e desenvolvimento de software. Este é o meu cantinho no GitHub, onde compartilho projetos, código e ideias relacionadas à minha jornada no mundo da computação.
+Olá! 👋 Meu nome é Ana,tenho 19 anos e sou uma apaixonada por tecnologia, programação e desenvolvimento de software. Este é o meu cantinho no GitHub, onde compartilho projetos, código e ideias relacionadas à minha jornada no mundo da computação.
 
 ## O Que Faço
 
