@@ -17,7 +17,7 @@ Olá! 👋 Meu nome é Ana,tenho 19 anos e sou uma apaixonada por tecnologia, pr
 
 ## Onde Você Pode Me Encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/ana-clara-dos-santos-a06090251/)
-- 💼 [email](anacsantosweb18@gmail.com)
+- 💼 [Email](anacsantosweb18@gmail.com)
 
 
 ## Entre em Contato
