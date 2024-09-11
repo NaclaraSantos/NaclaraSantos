@@ -9,7 +9,7 @@ Olá! 👋 Meu nome é Ana,tenho 20 anos e sou uma apaixonada por tecnologia, pr
 - 🎓 Estudo a 3 anos programação e atualmente estou cursando Análise e Desenvolvimento De Sistemas .
 - 🌐 Desenvolvo projetos web, tenho conhecimento em desenvolvimento back-end e front-end.
 - 📚 Estou constantemente aprendendo e me atualizando para acompanhar as últimas tendências tecnológicas.
-- 📚 Atualmente estou estagiando como analista de sistemas na Prefeitura municipal de Nova Lima.
+- 📚 Atualmente estou na área de sistemas da Prefeitura Municipal de Nova Lima.
 ## Minhas Paixões
 
 - 🚀 Adoro resolver problemas complexos e criar soluções inovadoras.
