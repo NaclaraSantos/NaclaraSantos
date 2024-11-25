@@ -6,7 +6,7 @@ Olá! 👋 Meu nome é Ana,tenho 20 anos e sou uma apaixonada por tecnologia, pr
 ## O Que Faço
 
 - 💻 Sou uma estudante de programação super entusiasmada.
-- 🎓 Estudo a 4 anos programação e atualmente estou cursando Análise e Desenvolvimento De Sistemas .
+- 🎓 Estudo a 4 anos e atualmente estou cursando Análise e Desenvolvimento De Sistemas .
 - 🌐 Desenvolvo projetos web, tenho conhecimento em desenvolvimento back-end e front-end.
 - 📚 Estou constantemente aprendendo e me atualizando para acompanhar as últimas tendências tecnológicas.
 - 📚 Atualmente estou na área de sistemas da Prefeitura Municipal de Nova Lima.
